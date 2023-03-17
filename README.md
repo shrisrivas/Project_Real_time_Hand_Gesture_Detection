@@ -6,7 +6,7 @@
 # Yolov5 Custom Dataset Training Dataset Creation
 
 capture images for custom dataset training.(size and resolution of the image dosent matter)
-run to capture images capture_image.py
+* run to capture images capture_image.py
 
 # Labelling the images 
 
