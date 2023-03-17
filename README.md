@@ -1,11 +1,9 @@
-# Project_Hand_Gesture_Detection
+# Project_Real_Time_Hand_Gesture_Detection_using_YOLOV5
 
 
 # Object-Detection-using-Yolov5
 
-Yolov5 Custom Dataset Training
-
-# Dataset Creation
+# Yolov5 Custom Dataset Training Dataset Creation
 
 capture images for custom dataset training.(size and resolution of the image dosent matter)
 run to capture images capture_image.py
